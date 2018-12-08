@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+
+<item>
+<title>Prva strana </title>
+<link>index.html</link>
+<description>Pocetna strana</description>
+</item>
+
+<item>
+<title>Pocetna strana</title>
+<link>pocetna.html</link>
+<description>Pocetna strana</description>
+</item>
+
+<item>
+<title>O nama</title>
+<link>o-nama.html</link>
+<description>O nama</description>
+</item>
+
+<item>
+<title>Galerija </title>
+<link>galerija.html</link>
+<description>Galerija slika .</description>
+</item>
+
+<item>
+<title>O autoru</title>
+<link>o-autoru.html</link>
+<description>O autoru</description>
+</item>
+</channel>
+</rss>
